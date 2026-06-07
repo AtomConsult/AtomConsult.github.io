@@ -161,8 +161,6 @@ nav ul li a:hover {
     color: #fff;
     margin-bottom: 20px;
     padding-top: 80px;
-    overflow-wrap: break-word;
-    word-break: break-all;
 }
 
 .hero p {
