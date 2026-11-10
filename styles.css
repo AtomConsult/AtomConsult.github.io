@@ -116,7 +116,7 @@ header .container {
     color: var(--secondary-color);
     margin-top: -5px;
 }
-.ak-logo img{
+header .ak-logo img{
     height:40px;
     width:auto
 }
